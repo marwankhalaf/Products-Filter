@@ -1,3 +1,5 @@
+// start logic
+
 let products = {
   data: [
     {
